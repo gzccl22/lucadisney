@@ -1,3 +1,4 @@
 # lucadisney
 Página do filme Luca da Disney+
-![disney](https://user-images.githubusercontent.com/102630771/185800780-95416693-4a9a-4534-9d37-db8cb4f6e2ec.png)
+
+![foto](https://user-images.githubusercontent.com/102630771/185801660-9a751638-dbf3-44c9-b23d-bf9ef7c9fce0.png)
